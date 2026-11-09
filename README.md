@@ -10,7 +10,7 @@
 
 ## 三步上手
 
-1. 从发布页的 **Assets** 下载 `无敌粘贴王.exe`，双击打开。免安装，无需 Python 或 AutoHotkey。
+1. 从发布页的 **Assets** 下载 `InvinciblePaste.exe`，双击打开无敌粘贴王。免安装，无需 Python 或 AutoHotkey。
 2. 复制要输入的文字，点一下目标输入框。
 3. 按 `Ctrl + Alt + V` 并松开。也可以点工具里的「3 秒后输入」，再切回输入框。
 
